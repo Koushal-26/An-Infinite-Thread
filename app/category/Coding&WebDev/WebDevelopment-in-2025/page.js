@@ -1,6 +1,7 @@
 import React from 'react'
 import Link from 'next/link'
 import Head from 'next/head'
+import Image from 'next/image'
 
 const page = () => {
   return (
@@ -20,8 +21,10 @@ const page = () => {
         </h1>
         <p className="text-gray-500 text-sm mb-6">By Amit • July 19, 2025</p>
 
-        <img
+        <Image
           src="/images/web-dev-future.jpg"
+          width={700}
+          height={700}
           alt="Future of Web Dev"
           className="w-full h-90 object-cover rounded-xl mb-8"
         />
@@ -33,8 +36,10 @@ const page = () => {
           <hr />
 
           <h2 className='text-2xl font-bold mt-8 mb-4'>AI Is Changing the Game</h2>
-          <img
+          <Image
             src="/images/ai-is-changing-the-game.jpg"
+            width={700}
+            height={700}
             alt="AI Is Changing the Game"
             className="w-full h-60 object-cover rounded-xl mt-4 mb-4"
           />
@@ -45,8 +50,10 @@ const page = () => {
           <hr />
 
           <h2 className='text-2xl font-bold mt-8 mb-4'>Next-Gen Frameworks</h2>
-          <img
+          <Image
             src="/images/next-gen-frameworks.jpg"
+            width={700}
+            height={700}
             alt="Next-Gen Frameworks"
             className="w-full h-60 object-cover rounded-xl mt-4 mb-4"
           />
@@ -77,8 +84,10 @@ const page = () => {
           <hr />
 
           <h2 className='text-2xl font-bold mt-8 mb-4'>Headless CMS</h2>
-          <img
+          <Image
             src="/images/headless-cms.jpg"
+            width={700}
+            height={700}
             alt="Headless CMS"
             className="w-full h-50 object-cover rounded-xl mt-4 mb-4"
           />
@@ -117,8 +126,10 @@ const page = () => {
 
 
           <h2 className='text-2xl font-bold mt-8 mb-4'>Privacy, Accessibility, and Performance</h2>
-          <img
+          <Image
             src="/images/safe.jpg"
+            width={700}
+            height={700}
             alt="Privacy, Accessibility, and Performance"
             className="w-full h-50 object-cover rounded-xl mt-4 mb-4"
           />

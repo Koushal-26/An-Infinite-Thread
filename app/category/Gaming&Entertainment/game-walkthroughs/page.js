@@ -18,7 +18,7 @@ export default function GameWalkthroughs() {
         />
 
         <p className="text-lg leading-relaxed mb-4">
-          Are you stuck in a game level? Don't worry! A <strong>game walkthrough</strong> is a guide that shows you how to play and win a game step by step. It helps you understand puzzles, secrets, and strategies. Whether you're playing action games, puzzles, or open-world adventures, walkthroughs save your time and frustration.
+          Are you stuck in a game level? Don&apos;t worry! A <strong>game walkthrough</strong> is a guide that shows you how to play and win a game step by step. It helps you understand puzzles, secrets, and strategies. Whether you&apos;re playing action games, puzzles, or open-world adventures, walkthroughs save your time and frustration.
         </p>
 
         <h2 className="text-2xl font-semibold mt-6 mb-3 text-blue-300">🔍 Why Use a Game Walkthrough?</h2>

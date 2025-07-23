@@ -121,7 +121,7 @@ const page = () => (
   </div>
 
   <p style={{marginTop: 32}}>
-   Thanks for reading and supporting An Infinite Thread. We're glad to have you here.
+   Thanks for reading and supporting An Infinite Thread. We&apos;re glad to have you here.
   </p>
  </div>
 );

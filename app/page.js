@@ -61,7 +61,7 @@ const Home = () => {
                 </Link>
               </div>
               <span className="px-2 font-bold">article 1</span>
-              <p className="mt-2 text-gray-600 text-base p-2">Self-improvement isn't about perfection — it's about progress, purpose, and pushing beyond limits.</p>
+              <p className="mt-2 text-gray-600 text-base p-2">Self-improvement isn&apos;t about perfection — it&apos;s about progress, purpose, and pushing beyond limits.</p>
               <div className="flex justify-center items-center m-15">
                 <Image className="hover:scale-110 transition-transform duration-300 ease-in-out"
                   src="/success.gif"
@@ -217,7 +217,7 @@ const Home = () => {
                   src="/eco.gif"
                   width={240}
                   height={240}
-                  alt="Don't remove trees"
+                  alt="Don&apos;t remove trees"
                   unoptimized
                 />
               </div>

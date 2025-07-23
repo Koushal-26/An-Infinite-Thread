@@ -28,7 +28,7 @@ const ContactUs = () => {
         fontSize: '1.15rem',
         color: '#475569'
       }}>
-        We'd love to hear from you!
+        We&apos;d love to hear from you!
       </p>
       <p style={{
         marginBottom: '1.5em',

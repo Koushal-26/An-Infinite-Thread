@@ -1,6 +1,7 @@
 import React from 'react'
 import Link from 'next/link'
 import Head from 'next/head'
+import Image from 'next/image'
 
 const page = () => {
  return (
@@ -20,19 +21,21 @@ const page = () => {
     </h1>
     <p className="text-gray-500 text-sm mb-6">By Amit • July 20, 2025</p>
 
-    <img
+    <Image
      src="/images/workout-at-home.jpg"
+     width={700}
+     height={700}
      alt="Workout at Home"
      className="w-full h-90 object-cover rounded-xl mb-8"
     />
 
     <article className="prose prose-lg max-w-none text-xl">
      <p className='m-2 mb-4'>
-      Want to stay fit at home? You don't need fancy machines or weights. A home workout without equipment is easy, effective, and free!
+      Want to stay fit at home? You don&apos;t need fancy machines or weights. A home workout without equipment is easy, effective, and free!
      </p>
 
      <p className='m-1 mb-4'>
-      Whether you're a beginner or just short on time, you can get stronger and healthier using your own body weight. Let's explore the best no-equipment workouts and how to start today.
+      Whether you&apos;re a beginner or just short on time, you can get stronger and healthier using your own body weight. Let&apos;s explore the best no-equipment workouts and how to start today.
      </p>
      <hr />
 
@@ -53,8 +56,10 @@ const page = () => {
      <hr />
 
      <h2 className='text-2xl font-bold mt-8 mb-4'>Warm-Up First (5 Minutes)</h2>
-     <img
+     <Image
       src="/images/warm-up.png"
+      width={700}
+      height={700}
       alt="Warm-up Exercises"
       className="w-full h-60 object-fit rounded-xl mt-4 mb-4"
      />
@@ -82,8 +87,10 @@ const page = () => {
      <hr />
 
      <h2 className='text-3xl font-bold mt-10 mb-4'>15-Minute Full Body Workout (No Equipment)</h2>
-     <img
+     <Image
       src="/images/workout.png"
+      width={700}
+      height={700}
       alt="Workouts"
       className="w-full h-60 object-fit rounded-xl mt-4 mb-4"
      />
@@ -119,8 +126,10 @@ const page = () => {
      <hr />
 
      <h2 className='text-2xl font-bold mt-8 mb-8'>Cool Down (3-5 Minutes)</h2>
-     <img
+     <Image
       src="/images/cool-down.png"
+      width={700}
+      height={700}
       alt="Cool down"
       className="w-full h-100 object-cover rounded-xl mt-4 mb-4"
      />
@@ -130,7 +139,7 @@ const page = () => {
      <p className='m-2 mb-4 mx-6'>Stay hydrated.</p>
 
      <blockquote>
-     Home workouts without equipment are a simple way to stay active, strong, and healthy. You don't need a gym - just your body, time, and commitment. Start small, stay consistent, and enjoy the journey to fitness!
+     Home workouts without equipment are a simple way to stay active, strong, and healthy. You don&apos;t need a gym - just your body, time, and commitment. Start small, stay consistent, and enjoy the journey to fitness!
      </blockquote>
 
      <hr />

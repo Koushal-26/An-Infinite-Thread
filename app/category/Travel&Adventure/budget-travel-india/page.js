@@ -22,7 +22,7 @@ export default function BudgetTravelBlog() {
       />
 
       <p className="text-xl text-gray-700 mb-4">
-        India is a colorful land filled with culture, food, and adventure. But did you know you can explore it without spending too much money? Here's how to travel on a budget in India.
+        India is a colorful land filled with culture, food, and adventure. But did you know you can explore it without spending too much money? Here&apos;s how to travel on a budget in India.
       </p>
 
       <h2 className="text-2xl font-semibold text-blue-600 mb-2">1. Choose Budget-Friendly Places</h2>

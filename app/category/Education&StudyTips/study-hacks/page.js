@@ -28,7 +28,7 @@ export default function StudyHacks() {
         />
 
         <p className="text-xl mb-4">
-          Learning slowly doesn't mean you can't learn well. With the right
+          Learning slowly doesn&apos;t mean you can&apos;t learn well. With the right
           hacks, anyone can become a smart learner. Here are some easy and
           powerful tips to help slow learners study better.
         </p>
@@ -67,7 +67,7 @@ export default function StudyHacks() {
           4. Use Simple Notes
         </h2>
         <p className="mb-4">
-          Don't write everything. Use bullet points and keywords. Keep your
+          Don&apos;t write everything. Use bullet points and keywords. Keep your
           notes clean and easy to revise.
         </p>
 
@@ -75,7 +75,7 @@ export default function StudyHacks() {
           5. Stay Positive & Take Breaks
         </h2>
         <p className="mb-6">
-          Don't compare yourself. Everyone has a different pace. Take breaks,
+          Don&apos;t compare yourself. Everyone has a different pace. Take breaks,
           eat healthy, and sleep well.
         </p>
 
@@ -89,7 +89,7 @@ export default function StudyHacks() {
         </div>
         <hr />
           <p className="text-sm text-gray-500">
-            keywords: "study tips", "slow learners", "how to study better", "learning hacks", "memory improvement", "focus techniques"
+            keywords: &quot;study tips&quot;, &quot;slow learners&quot;, &quot;how to study better&quot;, &quot;learning hacks&quot;, &quot;memory improvement&quot;, &quot;focus techniques&quot;
           </p>
       </main>
     </>
