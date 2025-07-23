@@ -138,11 +138,11 @@ const page = () => {
           </p>
 
           <blockquote>
-            -- &quot;The future isn&apos;t about building more — it's about building better.&quot;
+            -- &quot;The future isn&apos;t about building more — it&apos;s about building better.&quot;
           </blockquote>
 
           <p className='m-2 mt-4'>
-            Whether you're a developer, designer, or business owner, staying updated with the tools and trends of 2025 is essential to delivering fast, ethical, and engaging digital experiences.
+            Whether you&apos;re a developer, designer, or business owner, staying updated with the tools and trends of 2025 is essential to delivering fast, ethical, and engaging digital experiences.
           </p>
         </article>
 

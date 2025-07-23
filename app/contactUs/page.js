@@ -35,7 +35,7 @@ const ContactUs = () => {
         color: '#555',
         lineHeight: 1.7
       }}>
-        Whether you have a question, feedback, collaboration idea, or just want to say hello—feel free to reach out. We're always open to connecting with you.
+        Whether you have a question, feedback, collaboration idea, or just want to say hello—feel free to reach out. We&apos;re always open to connecting with you.
       </p>
       <div style={{
         background: '#f1f5f9',
