@@ -58,12 +58,12 @@ const page = () => {
             className="w-full h-60 object-cover rounded-xl mt-4 mb-4"
           />
           <p>
-            Think of these as modern "toolkits" for building websites and apps that load super fast and are easy to scale.
+            Think of these as modern &quot;toolkits&quot; for building websites and apps that load super fast and are easy to scale.
           </p>
 
           <h3 className='text-xl font-bold mt-8 mb-4 m-4'> -- Server-Side Rendering (SSR) & Static Generation (SSG) :</h3>
           <p className='mx-10'>
-            Think of these as modern "toolkits" for building websites and apps that load super fast and are easy to scale.
+            Think of these as modern &quot;toolkits&quot; for building websites and apps that load super fast and are easy to scale.
           </p>
           <h3 className='text-xl font-bold mt-8 mb-4 m-4'> -- Edge & Incremental Updates :</h3>
           <p className='mx-10'>
@@ -92,7 +92,7 @@ const page = () => {
             className="w-full h-50 object-cover rounded-xl mt-4 mb-4"
           />
 
-          <p className="m-2">Imagine a “content warehouse” that only provides content through APIs—no front-end templates.</p>
+          <p className="m-2">Imagine a &quot;content warehouse&quot; that only provides content through APIs—no front-end templates.</p>
 
           <h3 className='text-xl font-bold mt-8 mb-4 m-4'> -- Backend-Only :</h3>
           <p className='mx-10'>
@@ -138,7 +138,7 @@ const page = () => {
           </p>
 
           <blockquote>
-            -- "The future isn't about building more — it's about building better."
+            -- &quot;The future isn&apos;t about building more — it's about building better.&quot;
           </blockquote>
 
           <p className='m-2 mt-4'>

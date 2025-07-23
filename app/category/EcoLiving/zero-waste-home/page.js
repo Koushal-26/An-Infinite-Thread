@@ -28,8 +28,8 @@ export default function ZeroWasteHome() {
 
       <p className="text-lg mb-4">
         A zero waste home means using less plastic, recycling smartly, and
-        making eco-friendly choices. It’s not about being perfect — it's about
-        progress. Here’s how to begin:
+        making eco-friendly choices. It&apos;s not about being perfect — it&apos;s about
+        progress. Here&apos;s how to begin:
       </p>
 
       <h2 className="text-2xl font-semibold mt-6 mb-2">🌿 1. Use Reusables</h2>
